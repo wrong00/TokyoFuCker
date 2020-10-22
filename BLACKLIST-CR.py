@@ -1,4 +1,4 @@
-# Obfuscated by Py Compile
+#BLACK LIST TEAM IS HERE
 
 
 
